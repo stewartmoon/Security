@@ -1,0 +1,5 @@
+﻿  Chapter11.cpp
+c:\users\smoon5\desktop\accesscontrol\accesscontrol\chapter11.cpp(20): warning C4101: 'secure': unreferenced local variable
+c:\users\smoon5\desktop\accesscontrol\accesscontrol\chapter11.cpp(22): warning C4101: 'user': unreferenced local variable
+  AccessControl.vcxproj -> C:\Users\smoon5\Desktop\AccessControl\Debug\AccessControl.exe
+  AccessControl.vcxproj -> C:\Users\smoon5\Desktop\AccessControl\Debug\AccessControl.pdb (Full PDB)
